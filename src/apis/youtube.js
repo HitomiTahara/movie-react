@@ -8,6 +8,5 @@ export default axios.create({
     type: "video",
     maxResults: 5,
     key: KEY,
-    q: "surfboards",
   },
 });
